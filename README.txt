@@ -1,6 +1,6 @@
 This repository contains the source code for modding in Minecraft.
 
-It follows the tutorials set by turtywurty on Youtube, who can be found by entering the following link:
+It follows the tutorials set by turtywurty on Youtube, who can be found by clicking the following link:
 
                               https://www.youtube.com/watch?v=H55ClYTdQEI
 
@@ -13,7 +13,7 @@ I am using Java 8 in order to load some of the Java APIs.
 
 
 
-The following is the README for the 1.15.1 modding folder:
+The following is the README from the 1.15.1 modding folder:
 
 -------------------------------------------
 Source installation information for modders
